@@ -125,9 +125,9 @@ Google Drive-style file explorer to manage your VPS uploads. Clean UI, fully you
 <td width="50%" valign="top">
 <br/>
 
-**[↗ Learn.PK App](https://github.com/mahmedraza1/Learn.Pk-Expo-App)**
+**[↗ Blog](https://github.com/mahmedraza1/Blog)**
 
-Full LMS mobile app built with Expo. Learning management system — in your pocket.
+Blog application build with vite and react in front end and backend with appwrite.
 
 `React Native` &nbsp;`Expo` &nbsp;`TypeScript`
 
