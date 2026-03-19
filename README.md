@@ -129,7 +129,7 @@ Google Drive-style file explorer to manage your VPS uploads. Clean UI, fully you
 
 Blog application build with vite and react in front end and backend with appwrite.
 
-`React Native` &nbsp;`Expo` &nbsp;`TypeScript`
+`ReactJS` &nbsp;`Vite` &nbsp;`AppWrite`
 
 <br/>
 </td>
