@@ -25,7 +25,6 @@ const Mark = {
   title       : "Software Engineer  ·  Full-Stack (MERN)",
   education   : "BSCS · 6th Semester  ·  ongoing",
   location    : "Pakistan 🇵🇰",
-  working_on  : "Project Control SaaS  ·  US-Based Company",
   core_stack  : ["MongoDB", "Express.js", "React", "Node.js"],
   also_know   : ["C++", "React Native", "Python", "Assembly"],
   email       : "developer.mahmedraza@gmail.com",
